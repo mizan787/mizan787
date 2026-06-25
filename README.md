@@ -109,10 +109,6 @@
 
 📧 Email: mizanalam17542@gmail.com
 
-<a href="https://wa.me/919235761265" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="40" height="40"/>
-</a>
-9235761265
----
+
 
 ⭐ Thank you for visiting my profile!
