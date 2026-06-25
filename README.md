@@ -107,9 +107,11 @@
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: mizanalam17542@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+<a href="https://wa.me/919235761265" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="40" height="40"/>
+</a>
 
 ---
 
