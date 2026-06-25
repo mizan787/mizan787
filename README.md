@@ -15,6 +15,7 @@
 
 ## 🛠️ Tech Stack
 
+Technologies and tools I use for data analytics, visualization, and software development.
 <p align="center">
  <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,pycharm" />
