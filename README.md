@@ -13,34 +13,19 @@
 
 🚀 Currently building real-world data analytics projects to strengthen my portfolio and prepare for research internships and industry roles.
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-### Programming
-- Python
-
-### Databases
-- SQL
-- MySQL
-- Microsoft SQL Server
-
-### Data Analysis
-- Pandas
-- NumPy
-
-### Data Visualization
-- Power BI
-- Excel
-- Matplotlib
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
 
 ## 📂 Featured Projects
 
@@ -50,14 +35,10 @@
 - Business Insights
 - KPI Analysis
 
----
-
 ### 🔊 Text-to-Speech Application
 - Python
 - Text Processing
 - Speech Generation
-
----
 
 ## 🎯 Currently Learning
 
@@ -67,8 +48,6 @@
 - Machine Learning
 - Data Visualization
 
----
-
 ## 🌱 Goals for 2026
 
 - Build 15+ Data Analytics Projects
@@ -76,9 +55,7 @@
 - Secure a Research Internship
 - Publish Professional GitHub Portfolio
 - Strengthen Problem Solving
-
----
-
+- 
 ## 📈 GitHub Stats
 
 <!-- GitHub Stats -->
@@ -89,8 +66,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizan787&layout=compact&theme=github_dark" />
 </p>
-
----
 
 ## 💻 Tech Stack
 
@@ -105,12 +80,8 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
----
-
 ## 📫 Connect With Me
 
 📧 Email: mizanalam17542@gmail.com
-
-
 
 ⭐ Thank you for visiting my profile!
