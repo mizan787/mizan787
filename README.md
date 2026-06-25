@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mizan Alam</h1>
 <h3 align="center">IIT Madras BS in Data Science Student | Aspiring Data Analyst & Data Scientist</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=IIT+Madras+BS+Data+Science+Student;Python+Developer;SQL+%7C+Power+BI+%7C+Pandas;Aspiring+Data+Scientist" />
+</p>
 ## 👨‍💻 About Me
 
 🎓 Pursuing **BS in Data Science and Applications** from **IIT Madras**
